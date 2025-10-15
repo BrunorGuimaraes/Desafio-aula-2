@@ -25,7 +25,10 @@ a menor temperatura
 for i in range(1, 8):
     temperatura = float(input(f"Digite a temperatura do dia {i}: "))
 
-media = i
+
+
+
+
 '''
 Desafio 3  Simulador de Caixa Eletrônico
 Peça um valor de saque. Use while para calcular quantas cédulas de 100, 50, 20 e 10 reais são necessárias. Exiba o detalhamento do saque.(Exemplo: “2 notas de 100, 1 nota de 50, 1 nota de 20…")
